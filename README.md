@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![alt tag](https://i.imgur.com/J4S2DNG.png)
+
+
 <!--
 **JoshuaMacklin/JoshuaMacklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
