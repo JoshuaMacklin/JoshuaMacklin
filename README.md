@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![alt tag](https://i.imgur.com/J4S2DNG.png)
 
 
